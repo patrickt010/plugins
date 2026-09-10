@@ -427,6 +427,11 @@
       "name": "statsig",
       "source": "third_party/statsig",
       "description": "Inspect and manage feature gates, experiments, dynamic configs, and metrics."
+    },
+    {
+      "name": "coinbase",
+      "source": "third_party/coinbase",
+      "description": "Check balances, get quotes, and preview or place trades."
     }
   ]
 }
